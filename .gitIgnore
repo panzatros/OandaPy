@@ -1,0 +1,9 @@
+**/build/
+**/dist/
+**/__pycache__/
+
+Oanda.spec
+oldData.py
+
+*.tmp
+*.doc
